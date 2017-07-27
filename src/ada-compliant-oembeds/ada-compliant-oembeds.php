@@ -8,13 +8,13 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://www.northstarmarketing.com
+ * @link              https://github.com/NorthStarMarketing/ada-compliant-oembeds
  * @since             1.0.0
  * @package           Ada_Compliant_Oembeds
  *
  * @wordpress-plugin
  * Plugin Name:       ADA Compliant oEmbeds
- * Plugin URI:        https://www.northstarmarketing.com
+ * Plugin URI:        https://github.com/NorthStarMarketing/ada-compliant-oembeds
  * Description:       A simple plugin that adds the ADA required 'title' attribute to oembedded iframes.
  * Version:           1.0.0
  * Author:            North Star Marketing
